@@ -3,3 +3,8 @@ body {
   background-color: red;
   font-family: cursive;
 }
+
+html {
+  margin: 0;
+  padding: 0;
+}
