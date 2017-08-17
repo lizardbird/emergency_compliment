@@ -6,7 +6,7 @@ Create your own version of [Emergency Compliment](http://emergencycompliment.com
 
 When a user visits the site, they should be greeted with a random compliment to cheer them up.
 
-We are "faking" a back-end by using `data.js` for our compliments.
+We are "faking" a back-end by using `data.js` for our emergencyComp.
 
 ## Set-Up:
 
