@@ -29,7 +29,7 @@ var data  = [
   "I disagree with anyone who disagrees with you.",
   "Way to go!",
   "Have you been working out?",
-  "With your creative wit, I'm sure you could come up with better compliments than me.",
+  "With your creative wit, I'm sure you could come up with better emergencyComp than me.",
   "I like your socks.",
   "You are so charming.",
   "Your cooking reminds me of my mother's.",
